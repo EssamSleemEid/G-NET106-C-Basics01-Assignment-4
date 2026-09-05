@@ -108,6 +108,17 @@
             //    Console.WriteLine("price :" + price);
             //}
             #endregion
+
+            #region Question10
+            //Write a method PrintBookInfo(string title, int pages = 300) where pages is optional. Call it once with only a title, and once passing both a title and pages. 
+
+            //static void PrintBookInfo(string title, int pages = 300)
+            //{
+            //    Console.WriteLine(title +" "+ pages);
+            //}
+            //PrintBookInfo("essam");
+            //PrintBookInfo("essam", 500);
+            #endregion
         }
     }
 }
