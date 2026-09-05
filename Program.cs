@@ -18,6 +18,16 @@
 
             //Console.WriteLine("shelf 1 slot 0 : " + shelfCopies[1,0]);
             #endregion
+
+            #region Question3
+            //Write a method called PrintWelcomeMessage that takes no parameters and prints "Welcome to the Library!". Call it from Main. 
+
+            //static void PrintWelcomeMessage()
+            //{
+            //    Console.WriteLine("Welcome to the Library");
+            //}
+            //PrintWelcomeMessage();
+            #endregion
         }
     }
 }
