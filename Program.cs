@@ -65,6 +65,18 @@
 
             //Console.WriteLine("prices : "+ prices[0]);  //here its work bc the array reference to the method and not copy like the Q5
             #endregion
+
+            #region Question7
+            //Rewrite the method from question 5 as AddBonusPagesByRef(ref int pages) using ref. Call it and print pages afterward. How is the result different from question 5?
+
+            //static void AddBonusPages(ref int pages)
+            //{
+            //    pages = pages + 50;
+            //}
+            //int pages = 400;
+            //AddBonusPages(ref pages);
+            //Console.WriteLine("pages : " + pages);    //bc we use reference here we take the same value from the variable and changed it
+            #endregion
         }
     }
 }
