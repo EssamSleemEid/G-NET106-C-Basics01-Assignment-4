@@ -38,6 +38,19 @@
             //}
             //PrintBookTitle("clean code");
             #endregion
+
+            #region Question5
+            //Write a method AddBonusPages(int pages) that adds 50 to pages. Call it with a variable int pages = 400; and print pages afterward. What do you expect to see, and why?
+
+            //static void AddBonusPages(int pages)
+            //{
+            //    pages =pages+50;
+            //}
+            //int pages = 400;
+            //AddBonusPages(pages);
+            //Console.WriteLine("pages : " + pages);  //nothing change here bc change in the virable of the method does not change anything in the value of the virable outside the method
+          
+            #endregion
         }
     }
 }
