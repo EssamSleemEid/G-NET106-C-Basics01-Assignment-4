@@ -28,6 +28,16 @@
             //}
             //PrintWelcomeMessage();
             #endregion
+
+            #region Question4
+            //Write a method PrintBookTitle(string title) that prints "Book title: " + title. Call it with "Clean Code".
+
+            //static void PrintBookTitle(string title)
+            //{
+            //    Console.WriteLine("book title : " + title);
+            //}
+            //PrintBookTitle("clean code");
+            #endregion
         }
     }
 }
